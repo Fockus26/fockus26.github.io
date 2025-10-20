@@ -1,50 +1,33 @@
 # 🧑🏻 Cesar Leon – CV
 
-**English**
-
 Welcome to my personal resume!
 
 This website is a professional presentation of my experience, skills, and projects as a Full-Stack Developer. Here you will find information about my background, education, technical tools, and ways to contact me.
 
-**Español**
-
-¡Bienvenido a mi curriculum personal!
-
-Este sitio web es una presentación profesional de mi experiencia, habilidades y proyectos como desarrollador Full-Stack. Aquí encontrarás información sobre mi trayectoria, educación, herramientas técnicas y formas de contacto.
-
 ---
 
-## 🚀 Main Features / Caracteristicas Principales
+## 🚀 Main Features
 
-**English**
-
-- **Responsive Design:** Looks great on any device.
-- **Multilanguage support:** Content is shown in Spanish or English depending on the user's browser language.
+- **Responsive Design:** Optimized to look great on any device.
+- **Multilanguage Support:** Content is shown in Spanish or English depending on the user’s browser language.
 - **Experience & Education:** Clear and visually attractive lists of my work experience and education.
-- **Social media & contact:** Quick access to my professional profiles and contact methods.
-
-**Español**
-
-- **Responsive Design:** Adaptado para verse bien en cualquier dispositivo.
-- **Soporte multilenguaje:** El contenido se muestra en español o inglés según el idioma del navegador.
-- **Experiencia y Educación:** Listados claros y visualmente atractivos de mi experiencia laboral y formación.
-- **Redes sociales y contacto:** Acceso rápido a mis perfiles profesionales y medios de contacto.
+- **Social Media & Contact:** Quick access to my professional profiles and contact methods.
 
 ---
 
-## 📁 Project Structure / Estructura del Proyecto
+## 📁 Project Structure
 
-- `index.html` – Main page / Pagina principal
-- `style.css` – Custom site styles / Estilos personalizados
-- `favicon.ico` – Site icon / Icono del sitio
+- `index.html` – Main page
+- `style.css` – Custom site styles
+- `favicon.ico` – Site icon
 
 ---
 
-## 🛠️ Technologies Used / Tecnologias Usadas
+## 🛠️ Tech Stack
 
 - HTML5
 - CSS3
-- JavaScript (for language detection / para detección de idioma )
+- JavaScript (for automatic language detection)
 
 ---
 
@@ -52,22 +35,13 @@ Este sitio web es una presentación profesional de mi experiencia, habilidades y
 
 ![Preview](./assets/CV.png)
 
-## 🌐 Live Preview / Vista Previa
+## 🌐 Live Preview
 
-**English**
-
-You can see the portfolio live at: [https://fockus26.github.io](https://fockus26.github.io)
-
-**Español**
-
-Puedes ver el portafolio en vivo en: [https://fockus26.github.io](https://fockus26.github.io)
+You can see the CV live at: https://fockus26.github.io
 
 ---
 
-**English**
+## 🙌 Thank You
 
-Thank you for visiting my portfolio! If you have any questions or proposals, feel free to contact me via LinkedIn, email, or WhatsApp.
-
-**Español**
-
-¡Gracias por visitar mi portafolio! Si tienes alguna pregunta o propuesta, no dudes en contactarme por LinkedIn, email o WhatsApp.
+Thank you for visiting my portfolio!
+If you have any questions or proposals, feel free to contact me through **LinkedIn**, **email**, or **WhatsApp**.
