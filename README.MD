@@ -48,6 +48,10 @@ Este sitio web es una presentación profesional de mi experiencia, habilidades y
 
 ---
 
+## 👀 Preview
+
+![Preview](./assets/CV.png)
+
 ## 🌐 Live Preview / Vista Previa
 
 **English**
